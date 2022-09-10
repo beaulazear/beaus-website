@@ -1,0 +1,39 @@
+header {
+    font-size: 50px;
+    Courier, monospace;
+    color: darkviolet;
+    text-align: center;
+    font-style: italic;
+}
+body {
+    line-height: 25px;
+    text-align: center;
+    font-family: Courier, monospace;
+  }
+.rupic {
+  text-align: center;
+  width: 300px;
+  height: 400px;
+}
+.webnavlinks {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+footer {
+  color: darkviolet;
+  font-style: bold;
+  text-align: center;
+  font-family: Courier, monospace;
+}
+.Resume {
+  text-align: left;
+
+}
+fieldset {
+  text-align: left;
+  line-height: 35px;
+}
+#textbox{
+  height: 5px;
+  width: auto;
+}
