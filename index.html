@@ -19,8 +19,30 @@
     (View <a href="resume.html">resume page</a> for contact info)<br>
     ...</h4>
     <p>
-    <img src="IMG_2192.JPG" alt="Beau and Ru" width="300" height="400"> <img src="IMG_1883.JPG" width="300" height="400" alt="Beau and his cat"><br>
-    <img src="IMG_3417.JPG" width="300" height="400" alt="Beau and ralph"> <img src="IMG_3302.JPG" width="300" height="400" alt="Harlem with the nyc skyline in the back"><br>
+      <script>
+        var = 0;
+        var images = [];
+        var time = 3000;
+
+        //img list
+        images[0] = "IMG_2192.JPG";
+        images[1] = "IMG_1883.JPG";
+        images[2] = "IMG_3417.JPG";
+        images[3] = "IMG_3302.JPG";
+
+        //change image
+        function changedImg() {
+        document.slide.source = images[i];
+        if(i < imaages.length -1){
+          i++;
+        } else {
+          i = 0;
+        }
+        setTimeout("changeImg()", time);
+      }
+      window.onload = changeImg;
+      </script>
+      <img name="slide" width="300"height="400">
     </p>
     <h4>Some of the happy pups walking with me :)<br>
     ... and my rescue cat Sage!</h4>
