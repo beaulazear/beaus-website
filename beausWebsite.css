@@ -36,7 +36,7 @@ footer {
 
 .Resume {
   text-align: left;
-
+  line-height: 30px;
 }
 
 fieldset {
@@ -50,8 +50,8 @@ fieldset {
 }
 
 .serviceCardUl {
-  width: 500px;
-  height: 450px;
+  width: 400px;
+  height: 525px;
   display: inline-flex;
   justify-content: left;
   text-align: left;
@@ -64,8 +64,8 @@ fieldset {
   background-color: lightblue;
   box-shadow: 6px 6px 6px 5px rgba(0, 0, 0, 0.3);
   height: fit-content;
-  width: 500px;
-  height: 425px;
+  width: 400px;
+  height: 525px;
   padding-left: 5px;
   padding-right: 5px;
 }
@@ -75,8 +75,8 @@ fieldset {
   background-color: lightblue;
   box-shadow: 6px 6px 6px 5px rgba(0, 0, 0, 0.3);
   height: fit-content;
-  width: 500px;
-  height: 425px;
+  width: 400px;
+  height: 525px;
   padding-left: 5px;
   padding-right: 5px;
   text-align: center;
