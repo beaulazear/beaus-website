@@ -1,39 +1,87 @@
 header {
-    font-size: 50px;
-    Courier, monospace;
-    color: darkviolet;
-    text-align: center;
-    font-style: italic;
+  font-size: 50px;
+  Courier,
+  monospace;
+  color: black;
+  text-align: center;
+  font-style: italic;
 }
+
 body {
-    line-height: 25px;
-    text-align: center;
-    font-family: Courier, monospace;
-  }
+  line-height: 25px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: darksalmon;
+}
+
 .rupic {
   text-align: center;
   width: 300px;
   height: 400px;
 }
+
 .webnavlinks {
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
 }
+
 footer {
-  color: darkviolet;
+  color: black;
   font-style: bold;
   text-align: center;
   font-family: Courier, monospace;
 }
+
 .Resume {
   text-align: left;
 
 }
+
 fieldset {
   text-align: left;
   line-height: 35px;
 }
-#textbox{
+
+#textbox {
   height: 5px;
   width: auto;
+}
+
+.serviceCardUl {
+  width: 500px;
+  height: 450px;
+  display: inline-flex;
+  justify-content: left;
+  text-align: left;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.serviceCard {
+  padding-top: 0px;
+  background-color: lightblue;
+  box-shadow: 6px 6px 6px 5px rgba(0, 0, 0, 0.3);
+  height: fit-content;
+  width: 500px;
+  height: 425px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#introduction {
+  padding-top: 0px;
+  background-color: lightblue;
+  box-shadow: 6px 6px 6px 5px rgba(0, 0, 0, 0.3);
+  height: fit-content;
+  width: 500px;
+  height: 425px;
+  padding-left: 5px;
+  padding-right: 5px;
+  text-align: center;
+}
+#introUl {
+  display: flex;
+  justify-content: center;
 }
