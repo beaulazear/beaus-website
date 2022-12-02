@@ -62,7 +62,7 @@ fieldset {
 .serviceCard {
   padding-top: 0px;
   background-color: lightblue;
-  box-shadow: 6px 6px 6px 5px rgba(0, 0, 0, 0.3);
+  box-shadow: 6px 3px 3px 5px rgba(0, 0, 0, 0.3);
   height: fit-content;
   width: 400px;
   height: 525px;
@@ -73,7 +73,7 @@ fieldset {
 .introduction {
   padding-top: 0px;
   background-color: lightblue;
-  box-shadow: 6px 6px 6px 5px rgba(0, 0, 0, 0.3);
+  box-shadow: 6px 3px 3px 5px rgba(0, 0, 0, 0.2);
   width: 400px;
   height: 500px;
   text-align: center;
