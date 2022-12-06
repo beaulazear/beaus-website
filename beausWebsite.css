@@ -5,6 +5,7 @@ header {
   color: black;
   text-align: center;
   font-style: italic;
+  padding-top: 35px;
 }
 
 body {
@@ -14,12 +15,6 @@ body {
   align-items: center;
   font-family: 'Courier New', Courier, monospace;
   background-color: darksalmon;
-}
-
-.rupic {
-  text-align: center;
-  width: 300px;
-  height: 400px;
 }
 
 .webnavlinks {
@@ -36,7 +31,6 @@ footer {
 
 .Resume {
   text-align: left;
-  line-height: 30px;
 }
 
 fieldset {
@@ -85,4 +79,25 @@ fieldset {
   display: inline-flex;
   padding-left: 5px;
   padding-right: 5px;
+}
+.dogImg {
+  padding-left: 0%;
+  padding-right: 0%;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  object-fit: cover;
+}
+#dogImg {
+  padding-left: 0%;
+  padding-right: 0%;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  object-fit: cover;
+}
+#resumeInfoContainer{
+  line-height: 30px;
 }
