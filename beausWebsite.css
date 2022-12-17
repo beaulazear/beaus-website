@@ -72,6 +72,7 @@ fieldset {
   text-align: center;
   overflow: hidden;
 }
+
 .introUl {
   display: flex;
   justify-content: center;
@@ -80,6 +81,7 @@ fieldset {
   padding-right: 5px;
   overflow: hidden;
 }
+
 .testimonials {
   padding-top: 0px;
   background-color: lightblue;
@@ -88,7 +90,9 @@ fieldset {
   height: 500px;
   text-align: center;
   overflow: auto;
+
 }
+
 .testiUl {
   display: flex;
   justify-content: center;
@@ -96,15 +100,23 @@ fieldset {
   padding-left: 5px;
   padding-right: 5px;
   overflow: auto;
+
 }
+
 .dogImg {
   padding-left: 5px;
   padding-right: 5px;
   padding-top: 0;
   padding-bottom: 0;
+  
 }
 
-#resumeInfoContainer{
+#resumeInfoContainer {
   line-height: 30px;
 }
 
+.testimonialBio {
+  text-align: left;
+  padding-left: 20px;
+  padding-right: 20px;
+}
