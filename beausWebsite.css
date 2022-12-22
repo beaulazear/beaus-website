@@ -72,7 +72,7 @@ fieldset {
   padding-right: 20px;
   background-color: lightblue;
   box-shadow: 6px 3px 3px 5px rgba(0, 0, 0, 0.2);
-  width: 960px;
+  width: 940px;
   height: 500px;
   text-align: left;
   overflow: hidden;
@@ -96,7 +96,7 @@ fieldset {
   padding-top: 0px;
   background-color: lightblue;
   box-shadow: 6px 3px 3px 5px rgba(0, 0, 0, 0.2);
-  width: 1000px;
+  width: 980px;
   height: 700px;
   text-align: center;
   overflow: auto;
