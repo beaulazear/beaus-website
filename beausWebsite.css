@@ -43,7 +43,7 @@ fieldset {
 }
 
 .serviceCardUl {
-  width: 600px;
+  width: 830px;
   height: 500px;
   display: inline-flex;
   justify-content: left;
@@ -54,11 +54,11 @@ fieldset {
 }
 
 .serviceCard {
-  padding-top: 0%;
+  padding-top: 0px;
   background-color: lightblue;
   box-shadow: 6px 3px 3px 5px rgba(0, 0, 0, 0.3);
   height: fit-content;
-  width: 600px;
+  width: 830px;
   height: 500px;
   padding-left: 20px;
   padding-right: 20px;
@@ -71,8 +71,8 @@ fieldset {
   padding-left: 20px;
   padding-right: 20px;
   background-color: lightblue;
-  box-shadow: 6px 3px 3px 5px rgba(0, 0, 0, 0.2);
-  width: 840px;
+  box-shadow: 6px 3px 3px 5px rgba(0, 0, 0, 0.3);
+  width: 830px;
   height: 500px;
   text-align: left;
   overflow: hidden;
@@ -93,12 +93,12 @@ fieldset {
 }
 
 .testimonials {
-  padding-top: 0px;
+  padding-top: 18px;
   background-color: lightblue;
-  box-shadow: 6px 3px 3px 5px rgba(0, 0, 0, 0.2);
+  box-shadow: 6px 3px 3px 5px rgba(0, 0, 0, 0.3);
   width: 900px;
   max-width: 900px;
-  height: 700px;
+  height: 750px;
   text-align: center;
   overflow: auto;
   font-size: x-large;
