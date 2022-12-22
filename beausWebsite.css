@@ -70,9 +70,9 @@ fieldset {
   padding-right: 20px;
   background-color: lightblue;
   box-shadow: 6px 3px 3px 5px rgba(0, 0, 0, 0.2);
-  width: 755px;
+  width: 960px;
   height: 500px;
-  text-align: center;
+  text-align: left;
   overflow: hidden;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: x-large;
@@ -92,8 +92,8 @@ fieldset {
   padding-top: 0px;
   background-color: lightblue;
   box-shadow: 6px 3px 3px 5px rgba(0, 0, 0, 0.2);
-  width: 795px;
-  height: 500px;
+  width: 1000px;
+  height: 700px;
   text-align: center;
   overflow: auto;
   font-size: x-large;
