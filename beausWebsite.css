@@ -97,6 +97,7 @@ fieldset {
   background-color: lightblue;
   box-shadow: 6px 3px 3px 5px rgba(0, 0, 0, 0.2);
   width: 900px;
+  max-width: 900px;
   height: 700px;
   text-align: center;
   overflow: auto;
@@ -117,7 +118,6 @@ fieldset {
   padding-right: 5px;
   padding-top: 0;
   padding-bottom: 0;
-  
 }
 
 #resumeInfoContainer {
