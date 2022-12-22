@@ -70,12 +70,12 @@ fieldset {
   padding-right: 20px;
   background-color: lightblue;
   box-shadow: 6px 3px 3px 5px rgba(0, 0, 0, 0.2);
-  width: 400px;
-  height: 450px;
+  width: 500px;
+  height: 470px;
   text-align: center;
   overflow: hidden;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-size: larger;
+  font-size: x-large;
 }
 
 .introUl {
@@ -91,7 +91,7 @@ fieldset {
   padding-top: 0px;
   background-color: lightblue;
   box-shadow: 6px 3px 3px 5px rgba(0, 0, 0, 0.2);
-  width: 440px;
+  width: 540px;
   height: 500px;
   text-align: center;
   overflow: auto;
@@ -125,4 +125,5 @@ fieldset {
   padding-right: 20px;
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   line-height: 140%;
+  font-size: larger;
 }
