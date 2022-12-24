@@ -82,7 +82,12 @@ fieldset {
 }
 
 .introUl {
-  display: flex;
+  display: inline-block;
+  max-width: fit-content;
+  margin: auto;
+  margin-bottom: 25px;
+  text-align: center;
+  /* display: flex;
   justify-content: center;
   display: inline-flex;
   padding-left: 5px;
@@ -90,7 +95,7 @@ fieldset {
   overflow: hidden;
   padding-left: 10px;
   padding-right: 10px;
-  max-width: 869px;
+  max-width: 869px; */
 }
 
 .testimonials {
