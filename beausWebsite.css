@@ -62,7 +62,7 @@ fieldset {
   width: 830px;
   height: 500px;
   max-width: 830px;
-  padding-left: 20px;
+  padding-left: 30px;
   padding-right: 20px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: x-large;
@@ -79,8 +79,8 @@ fieldset {
   overflow: hidden;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: x-large;
-  line-height: 30px;
-  margin-right: 35px;
+  line-height: 33px;
+  margin-right: 32px;
 }
 
 .introUl {
@@ -166,7 +166,7 @@ fieldset {
 #introImg {
   position: absolute;
   right: 5px;
-  padding-bottom: 2px;
+  padding-bottom: 45px;
   bottom: 27px;
 }
 
