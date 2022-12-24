@@ -69,7 +69,6 @@ fieldset {
 .introduction {
   padding-top: 0px;
   padding-left: 20px;
-  padding-right: 20px;
   background-color: lightblue;
   box-shadow: 6px 3px 3px 5px rgba(0, 0, 0, 0.3);
   width: 830px;
@@ -147,8 +146,7 @@ fieldset {
 #aboutBio {
   padding-top: 0%;
   padding-left: 10px;
-  padding-right: 20px;
-  max-width: 500px;
+  max-width: 480px;
 }
 #introHead{
   padding-left: 10px;
@@ -159,10 +157,11 @@ fieldset {
 }
 #introImg{
   position: absolute;
-  right: 0;
-  bottom: 0;
-  padding-bottom: 60px;
+  right: 5px;
+  padding-bottom: 2px;
+  bottom: 27px;
 }
+
 .testiClient{
   padding-left: 20px;
   padding-right: 20px;
