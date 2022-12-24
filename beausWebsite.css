@@ -43,6 +43,8 @@ fieldset {
 }
 
 .serviceCardUl {
+  margin-top: 0;
+  margin-bottom: 20px;
   width: 830px;
   height: 500px;
   display: inline-flex;
@@ -78,6 +80,7 @@ fieldset {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: x-large;
   line-height: 30px;
+  margin-right: 35px;
 }
 
 .introUl {
@@ -135,34 +138,39 @@ fieldset {
   text-align: left;
   padding-left: 20px;
   padding-right: 20px;
-  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   line-height: 140%;
   font-size: larger;
   padding-bottom: 20px;
 }
+
 #aboutIntro {
   display: contents;
 }
+
 #aboutBio {
   padding-top: 0%;
   padding-left: 10px;
   max-width: 480px;
 }
-#introHead{
+
+#introHead {
   padding-left: 10px;
   padding-right: 20px;
 }
-#imgWrapper{
+
+#imgWrapper {
   position: relative;
 }
-#introImg{
+
+#introImg {
   position: absolute;
   right: 5px;
   padding-bottom: 2px;
   bottom: 27px;
 }
 
-.testiClient{
+.testiClient {
   padding-left: 20px;
   padding-right: 20px;
 }
