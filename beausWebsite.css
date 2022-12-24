@@ -90,27 +90,30 @@ fieldset {
   overflow: hidden;
   padding-left: 10px;
   padding-right: 10px;
+  max-width: 869px;
 }
 
 .testimonials {
-  padding-top: 18px;
+  padding-top: 2px;
+  padding-left: 4px;
   background-color: lightblue;
   box-shadow: 6px 3px 3px 5px rgba(0, 0, 0, 0.3);
-  width: 900px;
-  max-width: 900px;
-  height: fit-content
+  width: 865px;
+  height: fit-content;
   text-align: center;
   overflow: auto;
   font-size: x-large;
+  flex-wrap: wrap;
+  display: flex;
+  margin: 0px;
 }
 
 .testiUl {
-  display: flex;
-  justify-content: center;
   display: inline-block;
-  overflow: auto;
-  padding-left: 10px;
-  padding-right: 10px;
+  max-width: fit-content;
+  margin: auto;
+  margin-bottom: 25px;
+  text-align: center;
 }
 
 .dogImg {
@@ -131,6 +134,7 @@ fieldset {
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   line-height: 140%;
   font-size: larger;
+  padding-bottom: 20px;
 }
 #aboutIntro {
   display: contents;
@@ -153,5 +157,8 @@ fieldset {
   right: 0;
   bottom: 0;
   padding-bottom: 60px;
-  
+}
+.testiClient{
+  padding-left: 20px;
+  padding-right: 20px;
 }
