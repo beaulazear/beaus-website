@@ -166,8 +166,8 @@ fieldset {
 #introImg {
   position: absolute;
   right: 5px;
-  padding-bottom: 45px;
-  bottom: 27px;
+  padding-bottom: 0;
+  bottom: 5px;
 }
 
 .testiClient {
