@@ -151,23 +151,24 @@ fieldset {
 #aboutBio {
   padding-top: 0%;
   padding-left: 10px;
-  max-width: 480px;
+  max-width: 450px;
   text-align: left;
 }
 
 #introHead {
-  padding-left: 42px;
+  padding-left: 25px;
 }
 
 #imgWrapper {
   position: relative;
+
 }
 
 #introImg {
   position: absolute;
-  right: 5px;
+  right: 24px;
   padding-bottom: 0;
-  bottom: 5px;
+  bottom: 24px;
 }
 
 .testiClient {
