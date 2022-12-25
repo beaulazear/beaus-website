@@ -1,0 +1,120 @@
+header {
+  font-size: 50px;
+  font-family: 'Courier New', Courier, monospace;
+  color: black;
+  text-align: center;
+  font-style: italic;
+  padding-top: 25px;
+}
+
+body {
+  background-color: white;
+  text-align: center;
+}
+
+.webnavlinks {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+footer {
+  color: black;
+  font-size: 25px;
+  font-style: bold;
+  text-align: center;
+  font-family: Courier, monospace;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.Resume {
+  text-align: left;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#resumeInfoContainer {
+  line-height: 30px;
+}
+
+.serviceCard {
+  background-color: lightblue;
+  width: 830px;
+  height: 500px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: x-large;
+}
+
+.serviceCardUl {
+  width: 830px;
+  height: 500px;
+  display: inline-flex;
+  text-align: left;
+  line-height: 30px;
+}
+
+
+.introduction {
+  padding-top: 5px;
+  padding-left: 20px;
+  padding-bottom: 5px;
+  background-color: lightblue;
+  width: 830px;
+  height: fit-content;
+  text-align: left;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: x-large;
+  line-height: 33px;
+}
+
+.introUl {
+  display: inline-block;
+  margin-bottom: 25px;
+}
+
+#aboutBio {
+  padding-left: 10px;
+  max-width: 450px;
+  text-align: left;
+}
+
+#introHead {
+  padding-left: 25px;
+}
+
+#imgWrapper {
+  position: relative;
+}
+
+#introImg {
+  position: absolute;
+  right: 24px;
+  bottom: 24px;
+}
+
+.testimonials {
+  padding-top: 4px;
+  padding-left: 4px;
+  background-color: lightblue;
+  width: 865px;
+  height: fit-content;
+  overflow: auto;
+  font-size: x-large;
+  flex-wrap: wrap;
+}
+
+.testiUl {
+  display: inline-block;
+}
+
+
+.testimonialBio {
+  text-align: left;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  line-height: 140%;
+  font-size: larger;
+  padding-bottom: 20px;
+}
