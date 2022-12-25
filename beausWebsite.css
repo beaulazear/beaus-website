@@ -152,11 +152,11 @@ fieldset {
   padding-top: 0%;
   padding-left: 10px;
   max-width: 480px;
+  text-align: left;
 }
 
 #introHead {
-  padding-left: 10px;
-  padding-right: 20px;
+  padding-left: 42px;
 }
 
 #imgWrapper {
