@@ -1,0 +1,177 @@
+header {
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    text-align: center;
+    font-style: italic;
+    padding-top: 35px;
+  }
+  
+  body {
+    line-height: 25px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: darksalmon;
+  }
+  
+  .webnavlinks {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  footer {
+    color: black;
+    font-style: bold;
+    text-align: center;
+    font-family: Courier, monospace;
+  }
+  
+  .Resume {
+    text-align: left;
+  }
+  
+  fieldset {
+    text-align: left;
+    line-height: 35px;
+  }
+  
+  #textbox {
+    height: 5px;
+    width: auto;
+  }
+  
+  .serviceCardUl {
+    margin-top: 0;
+    margin-bottom: 20px;
+    width: 830px;
+    height: 500px;
+    display: inline-flex;
+    justify-content: left;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    line-height: 30px;
+  }
+  
+  .serviceCard {
+    padding-top: 0px;
+    background-color: lightblue;
+    box-shadow: 6px 3px 3px 5px rgba(0, 0, 0, 0.3);
+    width: 830px;
+    height: 500px;
+    max-width: 830px;
+    padding-left: 30px;
+    padding-right: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+  }
+  
+  .introduction {
+    padding-top: 0px;
+    padding-left: 20px;
+    background-color: lightblue;
+    box-shadow: 6px 3px 3px 5px rgba(0, 0, 0, 0.3);
+    width: 830px;
+    height: fit-content;
+    text-align: left;
+    overflow: hidden;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+    line-height: 33px;
+    margin-right: 32px;
+  }
+  
+  .introUl {
+    display: inline-block;
+    max-width: fit-content;
+    margin: auto;
+    margin-bottom: 25px;
+    text-align: center;
+    /* display: flex;
+    justify-content: center;
+    display: inline-flex;
+    padding-left: 5px;
+    padding-right: 5px;
+    overflow: hidden;
+    padding-left: 10px;
+    padding-right: 10px;
+    max-width: 869px; */
+  }
+  
+  .testimonials {
+    padding-top: 4px;
+    padding-left: 4px;
+    background-color: lightblue;
+    box-shadow: 6px 3px 3px 5px rgba(0, 0, 0, 0.3);
+    width: 865px;
+    height: fit-content;
+    text-align: center;
+    overflow: auto;
+    font-size: x-large;
+    flex-wrap: wrap;
+    display: flex;
+    margin-right: 35px;
+  }
+  
+  .testiUl {
+    display: inline-block;
+    max-width: fit-content;
+    margin: auto;
+    margin-bottom: 25px;
+    text-align: center;
+  }
+  
+  .dogImg {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  
+  #resumeInfoContainer {
+    line-height: 30px;
+  }
+  
+  .testimonialBio {
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 140%;
+    font-size: larger;
+    padding-bottom: 20px;
+  }
+  
+  #aboutIntro {
+    display: contents;
+  }
+  
+  #aboutBio {
+    padding-top: 0%;
+    padding-left: 10px;
+    max-width: 450px;
+    text-align: left;
+  }
+  
+  #introHead {
+    padding-left: 25px;
+  }
+  
+  #imgWrapper {
+    position: relative;
+  
+  }
+  
+  #introImg {
+    position: absolute;
+    right: 24px;
+    padding-bottom: 0;
+    bottom: 24px;
+  }
+  
+  .testiClient {
+    padding-left: 20px;
+    padding-right: 20px;
+  }

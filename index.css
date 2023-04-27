@@ -56,6 +56,26 @@ footer {
   line-height: 30px;
 }
 
+.projectsDiv {
+  background-color: lightblue;
+  width: 400px;
+  height: fit-content;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 0px;
+  padding-bottom: 10px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: x-large;
+  margin-right: 38px;
+  box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+.projectsUl {
+  width: 500px;
+  height: fit-content;
+  display: inline-flex;
+  line-height: 30px;
+}
 
 .introduction {
   padding-top: 5px;
@@ -117,4 +137,24 @@ footer {
 
 .resumeJobDescriptions {
   font-size: larger;
+}
+
+.button {
+  display: inline-block;
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: black;
+  background-color: lightblue;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: blue;
 }
