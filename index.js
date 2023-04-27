@@ -23,7 +23,7 @@ function handleNavButtonClicks(e) {
     } else if (e.target.innerText == "Testimonials") {
         console.log(e.target.innerText)
         window.location.href = "testimonials.html"
-    } else if (e.target.innerText == "Projects") {
+    } else if (e.target.innerText == "Programming") {
         console.log(e.target.innerText)
         window.location.href = "projects.html"
     }
