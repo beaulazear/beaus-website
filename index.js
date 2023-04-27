@@ -17,7 +17,7 @@ function handleNavButtonClicks(e) {
     } else if (e.target.innerText == "Resume") {
         console.log(e.target.innerText)
         window.location.href = "resume.html"
-    } else if (e.target.innerText == "Services") {
+    } else if (e.target.innerText == "Animal Care") {
         console.log(e.target.innerText)
         window.location.href = "prices.html"
     } else if (e.target.innerText == "Testimonials") {
