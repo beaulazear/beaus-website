@@ -58,7 +58,7 @@ footer {
 
 .projectsDiv {
   background-color: lightblue;
-  width: 400px;
+  width: 600px;
   height: fit-content;
   padding-left: 30px;
   padding-right: 30px;
@@ -71,7 +71,7 @@ footer {
 }
 
 .projectsUl {
-  width: 500px;
+  width: 600px;
   height: fit-content;
   display: inline-flex;
   line-height: 30px;

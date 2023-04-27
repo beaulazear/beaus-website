@@ -16,7 +16,7 @@ function handleNavButtonClicks(e) {
         window.location.href = "index.html"
     } else if (e.target.innerText == "Resume") {
         console.log(e.target.innerText)
-        window.location.href = "Resume.html"
+        window.location.href = "resume.html"
     } else if (e.target.innerText == "Services") {
         console.log(e.target.innerText)
         window.location.href = "prices.html"
