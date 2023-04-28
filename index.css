@@ -4,11 +4,14 @@ header {
   color: black;
   text-align: center;
   font-style: italic;
-  padding-top: 25px;
+  background-color: white;
+  width: fit-content;
+  margin: auto;
 }
 
 body {
   text-align: center;
+  background-image: url("images/bg5.jpg");
 }
 
 .webnavlinks {
@@ -26,11 +29,14 @@ footer {
   padding-top: 20px;
 }
 
+/* <a href="https://www.vecteezy.com/free-vector/wave-background">Wave Background Vectors by Vecteezy</a> .... <a href="https://www.vecteezy.com/free-vector/background-pattern">Background Pattern Vectors by Vecteezy</a> */
+
 .Resume {
   text-align: left;
   font-size: larger;
   font-family: 'Times New Roman', Times, serif;
   background-color: white;
+  background-image: none;
 }
 
 #resumeInfoContainer {
