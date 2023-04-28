@@ -8,7 +8,6 @@ header {
 }
 
 body {
-  background-color: darksalmon;
   text-align: center;
 }
 
@@ -29,7 +28,9 @@ footer {
 
 .Resume {
   text-align: left;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: larger;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: white;
 }
 
 #resumeInfoContainer {
@@ -46,6 +47,13 @@ footer {
   font-size: x-large;
   margin-right: 38px;
   box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+.gifDiv {
+  margin: auto;
+  display: flex;
+  box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+  width: 456px;
 }
 
 .serviceCardUl {
@@ -137,6 +145,10 @@ footer {
 
 .resumeJobDescriptions {
   font-size: larger;
+}
+
+.pdfA {
+  font-size:xx-large;
 }
 
 .button {
